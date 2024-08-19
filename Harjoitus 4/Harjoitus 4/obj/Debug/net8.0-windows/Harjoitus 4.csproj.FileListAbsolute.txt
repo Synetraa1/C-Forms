@@ -1,0 +1,16 @@
+C:\Users\autis\source\repos\Harjoitus 4\Harjoitus 4\obj\Debug\net8.0-windows\Harjoitus_4.IkäLaskuri.resources
+C:\Users\autis\source\repos\Harjoitus 4\Harjoitus 4\obj\Debug\net8.0-windows\Harjoitus 4.csproj.GenerateResource.cache
+C:\Users\autis\source\repos\Harjoitus 4\Harjoitus 4\obj\Debug\net8.0-windows\Harjoitus 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\autis\source\repos\Harjoitus 4\Harjoitus 4\obj\Debug\net8.0-windows\Harjoitus 4.AssemblyInfoInputs.cache
+C:\Users\autis\source\repos\Harjoitus 4\Harjoitus 4\obj\Debug\net8.0-windows\Harjoitus 4.AssemblyInfo.cs
+C:\Users\autis\source\repos\Harjoitus 4\Harjoitus 4\obj\Debug\net8.0-windows\Harjoitus 4.csproj.CoreCompileInputs.cache
+C:\Users\autis\source\repos\Harjoitus 4\Harjoitus 4\bin\Debug\net8.0-windows\Harjoitus 4.exe
+C:\Users\autis\source\repos\Harjoitus 4\Harjoitus 4\bin\Debug\net8.0-windows\Harjoitus 4.deps.json
+C:\Users\autis\source\repos\Harjoitus 4\Harjoitus 4\bin\Debug\net8.0-windows\Harjoitus 4.runtimeconfig.json
+C:\Users\autis\source\repos\Harjoitus 4\Harjoitus 4\bin\Debug\net8.0-windows\Harjoitus 4.dll
+C:\Users\autis\source\repos\Harjoitus 4\Harjoitus 4\bin\Debug\net8.0-windows\Harjoitus 4.pdb
+C:\Users\autis\source\repos\Harjoitus 4\Harjoitus 4\obj\Debug\net8.0-windows\Harjoitus 4.dll
+C:\Users\autis\source\repos\Harjoitus 4\Harjoitus 4\obj\Debug\net8.0-windows\refint\Harjoitus 4.dll
+C:\Users\autis\source\repos\Harjoitus 4\Harjoitus 4\obj\Debug\net8.0-windows\Harjoitus 4.pdb
+C:\Users\autis\source\repos\Harjoitus 4\Harjoitus 4\obj\Debug\net8.0-windows\Harjoitus 4.genruntimeconfig.cache
+C:\Users\autis\source\repos\Harjoitus 4\Harjoitus 4\obj\Debug\net8.0-windows\ref\Harjoitus 4.dll
