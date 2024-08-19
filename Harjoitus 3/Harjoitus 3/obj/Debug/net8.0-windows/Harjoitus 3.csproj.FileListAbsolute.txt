@@ -1,0 +1,16 @@
+C:\Users\autis\source\repos\Harjoitus 3\Harjoitus 3\bin\Debug\net8.0-windows\Harjoitus 3.exe
+C:\Users\autis\source\repos\Harjoitus 3\Harjoitus 3\bin\Debug\net8.0-windows\Harjoitus 3.deps.json
+C:\Users\autis\source\repos\Harjoitus 3\Harjoitus 3\bin\Debug\net8.0-windows\Harjoitus 3.runtimeconfig.json
+C:\Users\autis\source\repos\Harjoitus 3\Harjoitus 3\bin\Debug\net8.0-windows\Harjoitus 3.dll
+C:\Users\autis\source\repos\Harjoitus 3\Harjoitus 3\bin\Debug\net8.0-windows\Harjoitus 3.pdb
+C:\Users\autis\source\repos\Harjoitus 3\Harjoitus 3\obj\Debug\net8.0-windows\Harjoitus_3.Form1.resources
+C:\Users\autis\source\repos\Harjoitus 3\Harjoitus 3\obj\Debug\net8.0-windows\Harjoitus 3.csproj.GenerateResource.cache
+C:\Users\autis\source\repos\Harjoitus 3\Harjoitus 3\obj\Debug\net8.0-windows\Harjoitus 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\autis\source\repos\Harjoitus 3\Harjoitus 3\obj\Debug\net8.0-windows\Harjoitus 3.AssemblyInfoInputs.cache
+C:\Users\autis\source\repos\Harjoitus 3\Harjoitus 3\obj\Debug\net8.0-windows\Harjoitus 3.AssemblyInfo.cs
+C:\Users\autis\source\repos\Harjoitus 3\Harjoitus 3\obj\Debug\net8.0-windows\Harjoitus 3.csproj.CoreCompileInputs.cache
+C:\Users\autis\source\repos\Harjoitus 3\Harjoitus 3\obj\Debug\net8.0-windows\Harjoitus 3.dll
+C:\Users\autis\source\repos\Harjoitus 3\Harjoitus 3\obj\Debug\net8.0-windows\refint\Harjoitus 3.dll
+C:\Users\autis\source\repos\Harjoitus 3\Harjoitus 3\obj\Debug\net8.0-windows\Harjoitus 3.pdb
+C:\Users\autis\source\repos\Harjoitus 3\Harjoitus 3\obj\Debug\net8.0-windows\Harjoitus 3.genruntimeconfig.cache
+C:\Users\autis\source\repos\Harjoitus 3\Harjoitus 3\obj\Debug\net8.0-windows\ref\Harjoitus 3.dll
