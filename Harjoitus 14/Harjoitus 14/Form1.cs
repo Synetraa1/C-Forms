@@ -1,0 +1,23 @@
+namespace Harjoitus_14
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+            string teksti = File.ReadAllText("C:/Users/hickm/source/repos/C-Forms/Harjoitus 14/Paivakirja.txt");
+            SyottoTB.Text = teksti;
+        }
+
+        private void TallennaBT_Click(object sender, EventArgs e)
+        {
+            string teksti = "";
+            teksti += SyottoTB.Text;
+            teksti += " " + DateTime.Now.ToString("dd.MM.yyyy HH:mm") + "\n";
+            TextWriter text = new StreamWriter("C:/Users/hickm/source/repos/C-Forms/Harjoitus 14/Paivakirja.txt");
+            text.Write(teksti);
+            text.Close();
+            Application.Exit();
+        }
+    }
+}
