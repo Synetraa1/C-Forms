@@ -1,0 +1,17 @@
+C:\Users\hickm\source\repos\C-Forms\Harjoitus 16\Harjoitus 16\bin\Debug\net8.0-windows\Harjoitus 16.exe
+C:\Users\hickm\source\repos\C-Forms\Harjoitus 16\Harjoitus 16\bin\Debug\net8.0-windows\Harjoitus 16.deps.json
+C:\Users\hickm\source\repos\C-Forms\Harjoitus 16\Harjoitus 16\bin\Debug\net8.0-windows\Harjoitus 16.runtimeconfig.json
+C:\Users\hickm\source\repos\C-Forms\Harjoitus 16\Harjoitus 16\bin\Debug\net8.0-windows\Harjoitus 16.dll
+C:\Users\hickm\source\repos\C-Forms\Harjoitus 16\Harjoitus 16\bin\Debug\net8.0-windows\Harjoitus 16.pdb
+C:\Users\hickm\source\repos\C-Forms\Harjoitus 16\Harjoitus 16\obj\Debug\net8.0-windows\Harjoitus_16.Ajastin.resources
+C:\Users\hickm\source\repos\C-Forms\Harjoitus 16\Harjoitus 16\obj\Debug\net8.0-windows\Harjoitus 16.csproj.GenerateResource.cache
+C:\Users\hickm\source\repos\C-Forms\Harjoitus 16\Harjoitus 16\obj\Debug\net8.0-windows\Harjoitus 16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hickm\source\repos\C-Forms\Harjoitus 16\Harjoitus 16\obj\Debug\net8.0-windows\Harjoitus 16.AssemblyInfoInputs.cache
+C:\Users\hickm\source\repos\C-Forms\Harjoitus 16\Harjoitus 16\obj\Debug\net8.0-windows\Harjoitus 16.AssemblyInfo.cs
+C:\Users\hickm\source\repos\C-Forms\Harjoitus 16\Harjoitus 16\obj\Debug\net8.0-windows\Harjoitus 16.csproj.CoreCompileInputs.cache
+C:\Users\hickm\source\repos\C-Forms\Harjoitus 16\Harjoitus 16\obj\Debug\net8.0-windows\Harjoitus 16.sourcelink.json
+C:\Users\hickm\source\repos\C-Forms\Harjoitus 16\Harjoitus 16\obj\Debug\net8.0-windows\Harjoitus 16.dll
+C:\Users\hickm\source\repos\C-Forms\Harjoitus 16\Harjoitus 16\obj\Debug\net8.0-windows\refint\Harjoitus 16.dll
+C:\Users\hickm\source\repos\C-Forms\Harjoitus 16\Harjoitus 16\obj\Debug\net8.0-windows\Harjoitus 16.pdb
+C:\Users\hickm\source\repos\C-Forms\Harjoitus 16\Harjoitus 16\obj\Debug\net8.0-windows\Harjoitus 16.genruntimeconfig.cache
+C:\Users\hickm\source\repos\C-Forms\Harjoitus 16\Harjoitus 16\obj\Debug\net8.0-windows\ref\Harjoitus 16.dll
