@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Harjoitus 15")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Harjoitus 16")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5d61e983252e9d67d640c2e547b330baffc82bd")]
-[assembly: System.Reflection.AssemblyProductAttribute("Harjoitus 15")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Harjoitus 15")]
+[assembly: System.Reflection.AssemblyProductAttribute("Harjoitus 16")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Harjoitus 16")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]
