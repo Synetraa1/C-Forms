@@ -1,0 +1,17 @@
+C:\Users\hickm\source\repos\C-Forms\Harjoitus 18\Harjoitus 18\obj\Debug\net8.0-windows\Harjoitus_18.Avainhekilot_Form.resources
+C:\Users\hickm\source\repos\C-Forms\Harjoitus 18\Harjoitus 18\obj\Debug\net8.0-windows\Harjoitus 18.csproj.GenerateResource.cache
+C:\Users\hickm\source\repos\C-Forms\Harjoitus 18\Harjoitus 18\obj\Debug\net8.0-windows\Harjoitus 18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hickm\source\repos\C-Forms\Harjoitus 18\Harjoitus 18\obj\Debug\net8.0-windows\Harjoitus 18.AssemblyInfoInputs.cache
+C:\Users\hickm\source\repos\C-Forms\Harjoitus 18\Harjoitus 18\obj\Debug\net8.0-windows\Harjoitus 18.AssemblyInfo.cs
+C:\Users\hickm\source\repos\C-Forms\Harjoitus 18\Harjoitus 18\obj\Debug\net8.0-windows\Harjoitus 18.csproj.CoreCompileInputs.cache
+C:\Users\hickm\source\repos\C-Forms\Harjoitus 18\Harjoitus 18\obj\Debug\net8.0-windows\Harjoitus 18.sourcelink.json
+C:\Users\hickm\source\repos\C-Forms\Harjoitus 18\Harjoitus 18\bin\Debug\net8.0-windows\Harjoitus 18.exe
+C:\Users\hickm\source\repos\C-Forms\Harjoitus 18\Harjoitus 18\bin\Debug\net8.0-windows\Harjoitus 18.deps.json
+C:\Users\hickm\source\repos\C-Forms\Harjoitus 18\Harjoitus 18\bin\Debug\net8.0-windows\Harjoitus 18.runtimeconfig.json
+C:\Users\hickm\source\repos\C-Forms\Harjoitus 18\Harjoitus 18\bin\Debug\net8.0-windows\Harjoitus 18.dll
+C:\Users\hickm\source\repos\C-Forms\Harjoitus 18\Harjoitus 18\bin\Debug\net8.0-windows\Harjoitus 18.pdb
+C:\Users\hickm\source\repos\C-Forms\Harjoitus 18\Harjoitus 18\obj\Debug\net8.0-windows\Harjoitus 18.dll
+C:\Users\hickm\source\repos\C-Forms\Harjoitus 18\Harjoitus 18\obj\Debug\net8.0-windows\refint\Harjoitus 18.dll
+C:\Users\hickm\source\repos\C-Forms\Harjoitus 18\Harjoitus 18\obj\Debug\net8.0-windows\Harjoitus 18.pdb
+C:\Users\hickm\source\repos\C-Forms\Harjoitus 18\Harjoitus 18\obj\Debug\net8.0-windows\Harjoitus 18.genruntimeconfig.cache
+C:\Users\hickm\source\repos\C-Forms\Harjoitus 18\Harjoitus 18\obj\Debug\net8.0-windows\ref\Harjoitus 18.dll
