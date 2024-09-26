@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hickm\\source\\repos\\Harjoitus 19\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDC08B7-3F53-427A-A574-BDC14C4B7714}|Harjoitus 19\\Harjoitus 19.csproj|c:\\users\\hickm\\source\\repos\\harjoitus 19\\harjoitus 19\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FDC08B7-3F53-427A-A574-BDC14C4B7714}|Harjoitus 19\\Harjoitus 19.csproj|solutionrelative:harjoitus 19\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDC08B7-3F53-427A-A574-BDC14C4B7714}|Harjoitus 19\\Harjoitus 19.csproj|c:\\users\\hickm\\source\\repos\\harjoitus 19\\harjoitus 19\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0FDC08B7-3F53-427A-A574-BDC14C4B7714}|Harjoitus 19\\Harjoitus 19.csproj|solutionrelative:harjoitus 19\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hickm\\source\\repos\\Harjoitus 19\\Harjoitus 19\\Form1.cs",
+              "RelativeDocumentMoniker": "Harjoitus 19\\Form1.cs",
+              "ToolTip": "C:\\Users\\hickm\\source\\repos\\Harjoitus 19\\Harjoitus 19\\Form1.cs [Design]",
+              "RelativeToolTip": "Harjoitus 19\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T09:49:47.928Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\hickm\\source\\repos\\Harjoitus 19\\Harjoitus 19\\Form1.cs",
+              "RelativeDocumentMoniker": "Harjoitus 19\\Form1.cs",
+              "ToolTip": "C:\\Users\\hickm\\source\\repos\\Harjoitus 19\\Harjoitus 19\\Form1.cs",
+              "RelativeToolTip": "Harjoitus 19\\Form1.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T09:47:28.58Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
